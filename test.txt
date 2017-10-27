@@ -33,7 +33,7 @@ Failures:
        (compared using ==)
      # ./spec/values_spec.rb:17:in `block (2 levels) in <top (required)>'
 
-Finished in 0.01402 seconds (files took 0.49782 seconds to load)
+Finished in 0.01475 seconds (files took 0.60426 seconds to load)
 3 examples, 2 failures
 
 Failed examples:
